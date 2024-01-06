@@ -1,6 +1,6 @@
 package ganjil
 
-// Mengimport package fmt dan log
+// Mengimport package  yang dibutuhkan
 import (
 	"fmt"
 	"log"

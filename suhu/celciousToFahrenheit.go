@@ -1,6 +1,6 @@
 package suhu
 
-
+// Mengimport package  yang dibutuhkan
 import (
 	"fmt"
 	

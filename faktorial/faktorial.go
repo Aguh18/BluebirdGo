@@ -1,5 +1,6 @@
 package faktorial
 
+// Mengimport package  yang dibutuhkan
 import (
 	"fmt"
 )
